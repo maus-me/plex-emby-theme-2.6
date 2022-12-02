@@ -808,11 +808,11 @@ span.osd-endsat {
   margin: 10px 7px 10px 7px;
 }
 .videoosd-tab-button:hover {
-  background: #00000090 !important;
+  background: #0de5a090 !important;
   color: #fff !important;
 }
 .videoosd-tab-button.emby-tab-button-active {
-  background: #00000090 !important;
+  background: #0de5a090 !important;
   color: #fff !important;
 }
 .videoosd-bottom-with-opentab {
@@ -1085,9 +1085,6 @@ h2.upNextDialog-nextVideoText {
     padding: 1em 5em 1em 10em !important;
   }
   .homeSectionsContainer h2.sectionTitle-cards {
-    font-size: 0.97em;
-    font-weight: 100;
-    color: #dfdfdf;
     margin-top: 0.4em !important;
     margin-bottom: 0.3em !important;
     margin-left: 10px !important;
