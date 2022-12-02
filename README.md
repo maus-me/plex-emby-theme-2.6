@@ -1,4 +1,4 @@
-#plex-emby-theme-2.6
+# plex-emby-theme-2.6
 Improvements upon the one created by fillidill.
 
 ## Features over fillidill version
